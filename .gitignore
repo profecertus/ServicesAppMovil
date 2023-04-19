@@ -1,0 +1,22 @@
+# archivos de compilación
+bin/
+obj/
+
+# archivos de respaldo
+[Tt]humbs.db
+*.bak
+*.cache
+*.log
+
+# archivos de configuración de Visual Studio
+*.user
+*.suo
+*.vs/
+*.vscode/
+
+# archivos de NuGet
+packages/
+
+# otros archivos generados automáticamente
+*.DS_Store
+*.sln.ide
